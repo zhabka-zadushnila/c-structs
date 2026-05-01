@@ -1,2 +1,4 @@
 # c-structs
-why not to write some primitive c structs for no reason?
+
+My pretty well-aged code. Hopefully, I'll return in a while, with some dark magic like hashtables, red-black trees etc... 
+
